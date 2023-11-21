@@ -1,0 +1,10 @@
+#Tue Nov 21 15:57:42 EAT 2023
+base.2=E\:\\Notes\\4.1 notes\\PROJECTS\\MedRescue\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.2=classes2.dex
+base.1=E\:\\Notes\\4.1 notes\\PROJECTS\\MedRescue\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+path.1=classes.dex
+base.0=E\:\\Notes\\4.1 notes\\PROJECTS\\MedRescue\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

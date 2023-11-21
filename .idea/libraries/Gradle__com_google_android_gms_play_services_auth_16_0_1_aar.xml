@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-auth:16.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-11.0.21/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/651f7f2b9a1694bea5173a2782f76e6a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-11.0.21/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/651f7f2b9a1694bea5173a2782f76e6a/res" />
+      <root url="file://$USER_HOME$/.jdks/corretto-11.0.21/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/651f7f2b9a1694bea5173a2782f76e6a/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

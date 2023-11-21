@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-auth-api-phone:16.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/corretto-11.0.21/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/e1a06ea96d4d780d86fdade90c66ac40/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/corretto-11.0.21/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/e1a06ea96d4d780d86fdade90c66ac40/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
